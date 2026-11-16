@@ -2,6 +2,7 @@ import type { GuideConfig } from '../types'
 import { places } from './places'
 
 export const guide: GuideConfig = {
+  design: 'ruta',
   brand: 'Viajes J.R. Collini',
   city: 'Valencia',
   country: 'España',
